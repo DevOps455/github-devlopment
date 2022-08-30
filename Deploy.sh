@@ -1,1 +1,2 @@
-this file contains the deployment scrpiti
+this file contains the deployment scrpit
+agai updated
