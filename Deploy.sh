@@ -1,3 +1,3 @@
 this file contains the deployment scrpit
-agai updated
+again updated
 this line updating in devbranch
