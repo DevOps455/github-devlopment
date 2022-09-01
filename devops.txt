@@ -1,1 +1,2 @@
 devops tools
+git github maven sonarqube nexus
