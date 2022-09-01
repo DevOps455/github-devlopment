@@ -1,2 +1,3 @@
 devops tools
 git github maven sonarqube nexus
+jenkins docker k8s
